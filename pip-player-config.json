@@ -1,0 +1,17 @@
+{
+  "system": "PIP-PLAYER",
+  "version": "11.16",
+  "runtime_stack": {
+    "frontend": "HTML5 / Tailwind CSS (Zero-JS UI)",
+    "mobile_host": "Kotlin / Android WebView / Termux",
+    "backend_server": "Node.js Express / Java Servlets & JSP",
+    "processing_core": "Rust / WebAssembly",
+    "compute_environment": "Google Cloud Compute / Winlator Container"
+  },
+  "endpoints": {
+    "vault_folder": "https://drive.google.com/drive/folders/1raRVVsGlqYdnqgm_mr98NdfDTAM53rbp",
+    "stream_target": "
+    "https://drive.google.com/file/d/1Wl-jxtDN4II9qXEgdXCXvizhRil5NJnE/view?usp=drivesdk",
+    "sponsorship": "https://cash.app/$HAYATEIN"
+  }
+}
